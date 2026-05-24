@@ -4,7 +4,15 @@ Personal portfolio website built with React, Framer Motion, and Tailwind CSS. Fe
 
 ## Live Site
 
-[jatin-portfolio.vercel.app](https://jatin-portfolio.vercel.app)
+[jatins-portfolio-five.vercel.app](https://jatins-portfolio-five.vercel.app)
+
+## About Me
+
+Hi, I'm **Jatin Srivastava** — a B.Tech Computer Science graduate and Full Stack Developer focused on building scalable web applications and AI-powered systems. I work with modern web technologies to create production-ready applications with clean UI, strong backend architecture, and data-driven intelligence.
+
+- **Email** — [jatinsrivastava2110@gmail.com](mailto:jatinsrivastava4104@gmail.com)
+- **LinkedIn** — [linkedin.com/in/jatin-srivastava-784223253](https://www.linkedin.com/in/jatin-srivastava-784223253/)
+- **GitHub** — [github.com/JxTIN21](https://github.com/JxTIN21)
 
 ## Tech Stack
 
@@ -65,7 +73,7 @@ public/
 
 ## Deployment
 
-Deployed on [Vercel](https://vercel.com). Every push to `main` triggers an automatic redeploy.
+Deployed on [Vercel](https://vercel.com). Every push to `master` triggers an automatic redeploy.
 
 ## License
 
