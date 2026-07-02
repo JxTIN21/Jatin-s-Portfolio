@@ -14,13 +14,13 @@ const PROJECTS = [
   {
     num: "02",
     cat: "Full-Stack",
-    name: "DevBoard",
-    github: "https://github.com/JxTIN21/DevBoard",
-    live: "https://devboard-kohl.vercel.app/login",
+    name: "Virgo",
+    github: "https://github.com/JxTIN21/virgo",
+    live: "https://virgo-xi.vercel.app/",
     imgs: [
-      "https://i.ibb.co/99PWzH89/Screenshot-2026-05-24-234150.png",
-      "https://i.ibb.co/HpzTJzjJ/Screenshot-2026-05-24-234234.png",
-      "https://i.ibb.co/20xHxdJ0/Screenshot-2026-05-24-234200.png",
+      "/images/virgo1.png",
+      "/images/virgo2.png",
+      "/images/virgo3.png",
     ],
   },
   {
